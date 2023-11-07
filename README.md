@@ -37,3 +37,13 @@ You can now use the `heroku` CLI program - try running `heroku apps` to confirm 
 ---
 
 Happy coding!
+
+
+
+
+
+
+
+
+
+Set up django + bootstrap https://dev.to/thalesbruno/django-bootstrap-basic-setup-5dmb
